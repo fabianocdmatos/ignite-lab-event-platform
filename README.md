@@ -7,6 +7,8 @@ Técnologias
   - Props
   - Hooks
 - Typescript
+  - interface
+  - type
 - Tailwindcss
 - graphql
 - graphcms
