@@ -29,3 +29,11 @@ Biblioteca de Icones
 Tratamento de Datas
 
 - date-fns
+
+Incorporação de vídeos
+
+- vimejs (vimejs.com)
+
+Sistema de Roteamento
+
+- react-router-dom
