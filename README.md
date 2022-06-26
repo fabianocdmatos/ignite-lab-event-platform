@@ -9,31 +9,39 @@ Técnologias
 - Typescript
   - interface
   - type
-- Tailwindcss
+- Tailwindcss ( https://tailwindcss.com/ )
 - graphql
-- graphcms
+- graphcms ( https://graphcms.com/ )
 - appolo
 
 Criar component SVG para React
 
-- Copia o código HTML do SVG vai no site svg2jsx.com
+- Copia o código HTML do SVG vai no site svg2jsx.com ( https://svg2jsx.com/ )
 
-Importação de Font externa no Tailwindcss
+Importação de font externa no Tailwindcss
 
-- fonts.google.com Roboto
+- fonts.google.com Roboto ( https://fonts.google.com/ )
 
-Biblioteca de Icones
+Biblioteca de icones
 
-- phosphor
+- phosphor ( https://phosphoricons.com/ )
 
-Tratamento de Datas
+Tratamento de datas
 
-- date-fns
+- date-fns ( https://date-fns.org/ )
 
 Incorporação de vídeos
 
-- vimejs (vimejs.com)
+- vimejs ( https://vimejs.com/ )
 
-Sistema de Roteamento
+Sistema de roteamento
 
-- react-router-dom
+- react-router-dom ( https://www.npmjs.com/package/react-router-dom )
+
+Variaveis de ambientes
+
+- .env.local
+
+Adicionar condicional em tag HTML no className
+
+- classnames ( https://www.npmjs.com/package/classnames )
