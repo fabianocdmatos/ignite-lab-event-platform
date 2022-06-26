@@ -1,9 +1,9 @@
-import { format, isPast } from "date-fns";
-import { CheckCircle, Lock } from "phosphor-react";
-import { typeLesson } from "../types/global";
-import ptBR from "date-fns/locale/pt-BR";
-import { Link, useParams } from "react-router-dom";
 import classNames from "classnames";
+import { format, isPast } from "date-fns";
+import ptBR from "date-fns/locale/pt-BR";
+import { CheckCircle, Lock } from "phosphor-react";
+import { Link, useParams } from "react-router-dom";
+import { typeLesson } from "../types/global";
 
 interface LessonProps {
   title: string;
