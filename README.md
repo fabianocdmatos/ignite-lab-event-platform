@@ -3,7 +3,7 @@
 Projeto
 
 - Projeto desenvolvido no IgniteLab da RocketSeat
-- Acesse o Projeto completo funcionando no <a href=“https://ignite-lab-event-platform-fabianocdmatos.vercel.app/“ target=“_blank“>Vercel</a>
+- Acesse o Projeto completo funcionando no [Vercel](https://ignite-lab-event-platform-fabianocdmatos.vercel.app/)
 
 Técnologias
 
