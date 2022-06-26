@@ -5,7 +5,7 @@ Projeto
 - Projeto desenvolvido no IgniteLab da RocketSeat
 - Acesse o Projeto completo funcionando no [Vercel](https://ignite-lab-event-platform-7uuc5pu17-fabianocdmatos.vercel.app)
 
-Técnologias
+Técnologias / Aprendizados
 
 - Figma/Layout ( [https://www.figma.com/layout](<https://www.figma.com/file/UZmTc5VX32iVENSvEU2Iho/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1>) )
 - Vite ( https://vitejs.dev/ )
