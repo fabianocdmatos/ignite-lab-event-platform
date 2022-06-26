@@ -1,7 +1,14 @@
+# Event Platform
+
+Projeto
+
+- Projeto desenvolvido no IgniteLab da RocketSeat
+- Acesse o Projeto completo funcionando no [Vercel](https://vercel.com/account)
+
 Técnologias
 
-- Figma
-- Vite
+- Figma/Layout ( [https://www.figma.com/layout](<https://www.figma.com/file/UZmTc5VX32iVENSvEU2Iho/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1>) )
+- Vite ( https://vitejs.dev/ )
 - React
   - Components
   - Props
@@ -10,9 +17,9 @@ Técnologias
   - interface
   - type
 - Tailwindcss ( https://tailwindcss.com/ )
-- graphql
+- graphql ( https://graphql.org/ )
 - graphcms ( https://graphcms.com/ )
-- appolo
+- appolo ( https://www.apollographql.com/ )
 
 Criar component SVG para React
 
@@ -45,3 +52,11 @@ Variaveis de ambientes
 Adicionar condicional em tag HTML no className
 
 - classnames ( https://www.npmjs.com/package/classnames )
+
+Geração automatica dos hooks/schema/typing do GraphQL
+
+- GraphQL Code Generator ( https://www.graphql-code-generator.com/ )
+
+Deploy da Aplicação
+
+- Vercel ( https://vercel.com )
